@@ -1,2 +1,2 @@
 # JavaScript-Jatkot
-WebResources pumaskan jatkot.
+WebResources pumaskan jatkot. **Work in progress...**
